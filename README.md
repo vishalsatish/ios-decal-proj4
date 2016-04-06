@@ -79,6 +79,8 @@ as a settings button
 	* Each member (as a table entry) has next to them a "cookie" button that 
 	allows the user to give them additional points with a reason attached (i.e. 
 	Took care of Bob when he was sick.)
+	* when the progress bar is filled, the bar right away starts filling again 
+	and the member receives an addition to their "reward count"
 * Clicking on the members tab takes the user to a view that displays every 
 group member, including add (new members) and edit (delete members) buttons
 	* Clicking on the add button brings the user to the same view they saw when 
