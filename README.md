@@ -1,13 +1,13 @@
-# APP NAME
+# RoomGreat
 
 ## Authors
 * Vishal Satish
 
 ## Purpose
-_ is a _ app that allows roommates or family members to easily manage chores 
-and expenditures for their apartment or household. With _, arguing over who is 
-supposed to take out the trash tonight or figuring out what bills are left to 
-pay are problems of the past.
+RoomGreat is a management app that allows roommates or family members to easily 
+manage chores and expenditures for their apartment or household. Arguing over 
+who is supposed to take out the trash tonight or figuring out what bills are 
+left to pay are only a couple things that will become problems of the past.
 
 ## Features
 * Create groups for each household/apartment being managed
